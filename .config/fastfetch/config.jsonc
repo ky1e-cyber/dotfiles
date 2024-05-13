@@ -4,10 +4,10 @@
       "type": "file",
       "source": "~/.config/fastfetch/ascii/tired.txt",
       "color": {
-        "1": "black",
-        "2": "bright_yellow",
-        "3": "bright_blue",
-        "4": "magenta",
+        "1": "white",
+        "2": "magenta",
+        "3": "white",
+        "4": "green",
       }
     },
     "modules": [
